@@ -1,0 +1,6 @@
+taper une lettre comme montrer sur le menu afin 
+de pouvoir executer la commande
+pour utuliser la date il faut ecrire sous la forme yyyy-mm-dd avec les tirets
+pour afficher par utulisateur il faut ecrire le nom de l'utulisateur un message
+d'erreur sera afficher si le nom d'utulisateur n'existe pas
+
